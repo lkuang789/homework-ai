@@ -1,0 +1,17 @@
+langchain
+openai
+faiss-cpu
+transformers
+sentence-transformers
+gradio
+fastapi
+uvicorn
+python-multipart
+pypdf
+python-docx
+pandas
+openpyxl
+python-pptx
+fastapi
+uvicorn
+sentencepiece
